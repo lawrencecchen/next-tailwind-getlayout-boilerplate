@@ -6,7 +6,7 @@ const IndexPage = () => {
   return (
     <>
       <Head>
-        <title>Discordstack - Home</title>
+        <title>Home</title>
       </Head>
 
       <div className="p-10">
